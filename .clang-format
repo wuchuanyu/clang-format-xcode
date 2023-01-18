@@ -1,0 +1,12 @@
+---
+BasedOnStyle:  LLVM
+IndentWidth:     4
+---
+Language:        ObjC
+ColumnLimit:     160
+ObjCBlockIndentWidth: 4
+SortIncludes: false
+PointerAlignment: Right
+ObjCBreakBeforeNestedBlockParam: false
+...
+
